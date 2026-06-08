@@ -1,0 +1,19 @@
+body{
+  background-color:black;
+  color:white;
+}
+.prompt{
+  color:white;
+}
+input{
+  border:none;
+  outline: none;
+  color:white;
+  background-color:black;
+}
+img{
+  position:fixed;
+  right:0;
+  top:50%;
+  height:400px;
+}
